@@ -8,8 +8,12 @@ void help_function()
     printf("Hi\n");
 }
 
+void function_name(int c, int hi)
+{
+    
+}
+
 int main(int argc, char *argv[]) {
-    printf("Hello World!\n");
     help_function();
     return 0;
 }
